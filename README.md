@@ -6,7 +6,7 @@
 This workspace contains a comprehensive, interactive, and visually rich reference guide for **System Design**. The guide is designed as a single, self-contained HTML dashboard that acts as a cheat sheet and a structured roadmap for mastering high-scale software architecture.
 
 ## 📂 Project Structure
-*   **[system-design-guide-2.html](./system-design-guide-2.html)**: The main interactive dashboard containing the System Design reference material, comparison tables, key architectural formulas, and a 15-step master learning path.
+*   **[index.html](./index.html)**: The main interactive dashboard containing the System Design reference material, comparison tables, key architectural formulas, and a 15-step master learning path.
 *   **[git-commands.md](./git-commands.md)**: A complete reference guide and cheat sheet for Git, including remote repository setup instructions for syncing to your target GitHub repository.
 
 
@@ -50,7 +50,7 @@ Built with modern dark-mode styling, smooth animations, color-coded visual hiera
 ---
 
 ## 🚀 How to Use It
-1. Open **[system-design-guide-2.html](./system-design-guide-2.html)** in any web browser.
+1. Open **[index.html](./index.html)** in any web browser.
 2. Use the **Navigation Pills** at the top to instantly jump to specific domains.
 3. Hover over the cards and interactive nodes in the roadmap to see animated feedback and highlight paths.
 4. Keep it open as a secondary monitor cheat sheet during practice design sessions or architectural brainstorming.
