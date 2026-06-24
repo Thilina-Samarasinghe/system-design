@@ -1,32 +1,5 @@
 # Git: Complete Reference Guide & Cheat Sheet
 
-This guide provides a comprehensive list of Git commands, ranging from repository setup and local workflow commands to collaboration, remote management, undoing changes, and advanced troubleshooting.
-
----
-
-## 🚀 Connecting to Your Repository
-
-To initialize Git in this directory and push these system design files to your remote repository (`https://github.com/Thilina-Samarasinghe/system-design.git`), run the following commands in your terminal:
-
-```bash
-# 1. Initialize a local Git repository
-git init
-
-# 2. Add all files in the directory to the staging area
-git add .
-
-# 3. Commit the files with a descriptive message
-git commit -m "Initial commit: Added system design guide and documentation"
-
-# 4. Rename the default branch to 'main'
-git branch -M main
-
-# 5. Link the local repository to your remote GitHub repository
-git remote add origin https://github.com/Thilina-Samarasinghe/system-design.git
-
-# 6. Push the code to GitHub (upstream)
-git push -u origin main
-```
 
 ---
 
